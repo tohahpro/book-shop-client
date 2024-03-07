@@ -1,0 +1,66 @@
+[
+    {
+        "bookName": "World At War Vol2",
+        "writer": "Arif Khan",
+        "image": "https://i.ibb.co/VtqJbVf/book-1.png",
+        "category": "Fiction",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "Learn With Arif",
+        "writer": "Arif Khan",
+        "image": "https://i.ibb.co/VqGhsT7/book-2.png",
+        "rating": 3,
+        "category": "Satire",
+        "price": 14.7
+    },
+    {
+        "bookName": "Fly High",
+        "writer": "Maksud Reza",
+        "image": "https://i.ibb.co/8dhd3cQ/book-8.png",
+        "category": "Satire",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "Tour Gide for Africa",
+        "writer": "Selim Rana & Newaz Sharif",
+        "image": "https://i.ibb.co/ZTxCv8p/book-3.png",
+        "category": "Art",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "History of Moon",
+        "writer": "Shakara Tasnim",
+        "image": "https://i.ibb.co/4Wc2cwx/book-4.png",
+        "category": "Journals",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "Best Freelancing Guide",
+        "writer": "Kohinur Tabassum",
+        "image": "https://i.ibb.co/PgtLM9b/book-5.png",
+        "category": "History",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "Escalope de Veau",
+        "writer": "Momen Bhuiyan",
+        "image": "https://i.ibb.co/BqMJ1PF/book-6.png",
+        "category": "Anthologies",
+        "price": 14.5,
+        "rating": 3
+    },
+    {
+        "bookName": "Sky Fall",
+        "writer": "Dr. KB Arif Khan",
+        "image": "https://i.ibb.co/FgLCx6d/book-7.png",
+        "category": "Anthologies",
+        "price": 14.5,
+        "rating": 3
+    }
+]
