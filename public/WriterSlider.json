@@ -1,0 +1,26 @@
+[
+    {
+        "bookName": "World At War Vol2",
+        "writer": "Arif Khan",
+        "image": "https://i.ibb.co/VtqJbVf/book-1.png",
+        "category": "Fiction",
+        "price": 14.7,
+        "rating": 3
+    },
+    {
+        "bookName": "Learn With Arif",
+        "writer": "Arif Khan",
+        "image": "https://i.ibb.co/VqGhsT7/book-2.png",
+        "rating": 3,
+        "category": "Satire",
+        "price": 14.7
+    },
+    {
+        "bookName": "Fly High",
+        "writer": "Maksud Reza",
+        "image": "https://i.ibb.co/8dhd3cQ/book-8.png",
+        "category": "Satire",
+        "price": 14.7,
+        "rating": 3
+    }
+]

@@ -39,7 +39,7 @@ const BestProducts = () => {
 
                 </TabList>
                 <TabPanel>
-                    <div className="grid grid-cols-4 gap-10 py-20">
+                    <div className="grid grid-cols-4 gap-10 pt-10">
                         {
                             Fiction.map((item, idx) =>
                                 <BookCard
