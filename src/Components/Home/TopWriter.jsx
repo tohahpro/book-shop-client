@@ -14,7 +14,7 @@ const TopWriter = () => {
             .then(data => setData(data))
     }, [])
 
-    console.log(data);
+
 
     return (
         <div className="lg:mx-56">

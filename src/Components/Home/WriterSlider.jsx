@@ -22,8 +22,6 @@ const WriterSlider = ({ data }) => {
 
 
     return (
-
-
         <div className=''>
 
             <div className=''>
