@@ -1,6 +1,7 @@
 import { CiLocationOn } from "react-icons/ci";
 import { TfiHeadphoneAlt } from "react-icons/tfi";
 import { PiEnvelopeLight } from "react-icons/pi";
+import GoogleMap from "../Components/FooterMap/GoogleMap";
 
 const Footer = () => {
     return (
@@ -12,14 +13,13 @@ const Footer = () => {
                         <CiLocationOn className="text-4xl" />
                         <a className="link link-hover">
                             77 Seventh Streeth, Banasree.
-                            USA -215568</a>
+                            Dhaka -215568</a>
                     </div>
 
                     <div className="flex gap-2">
                         <TfiHeadphoneAlt className="text-xl gap-2" />
                         <a className="link link-hover">
-                            +880 1955 387188 <br />
-                            +880 1911 459270</a>
+                            +880 1955 387188</a>
                     </div>
                     <div className="flex gap-2">
                         <PiEnvelopeLight className="text-xl gap-2" />
@@ -59,16 +59,10 @@ const Footer = () => {
 
                 </nav>
                 <form>
-                    <h6 className="footer-title">Newsletter</h6>
-                    <fieldset className="form-control w-80">
-                        <label className="label">
-                            <span className="label-text">Enter your email address</span>
-                        </label>
-                        <div className="join">
-                            <input type="text" placeholder="username@site.com" className="input input-bordered join-item" />
-                            <button className="btn btn-primary join-item">Subscribe</button>
-                        </div>
-                    </fieldset>
+                    <h6 className="text-2xl font-bold">FIND US</h6>
+                    <div>
+                        <GoogleMap />
+                    </div>
                 </form>
             </footer>
         </div>
