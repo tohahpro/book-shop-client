@@ -12,7 +12,7 @@ const Subscription = () => {
                     <div className=''>
                         <div className='border rounded-full'>
                             <input className='w-96 py-3 border-none bg-transparent focus:outline-none text-[#9F9285] pl-7' placeholder='Enter Your E-mail' type="text" />
-                            <button className='uppercase text-white px-10 border-l hover:text-[#F44344] hover:duration-700'>Subscribe</button>
+                            <button className='uppercase text-white px-10 border-l hover:text-[#F44344] hover:duration-700 '>Subscribe</button>
                         </div>
                     </div>
                 </div>
