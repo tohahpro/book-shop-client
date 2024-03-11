@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
             <footer className=" grid lg:grid-cols-4 md:grid-cols-2 lg:px-56 py-16 bg-[#F7F7F7] text-base-content">
                 <nav className="grid grid-cols-1 space-y-4 w-2/3">
-                    <h6 className="text-2xl font-bold">MAKTABUN NUR</h6>
+                    <h6 className="text-2xl font-bold">EZONE BOOS</h6>
                     <div className="flex gap-2">
                         <CiLocationOn className="text-4xl" />
                         <a className="link link-hover">

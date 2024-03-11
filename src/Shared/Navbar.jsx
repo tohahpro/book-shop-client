@@ -77,7 +77,7 @@ const Navbar = () => {
 
                         <div className="flex justify-center">
                             <NavLink
-                                to="/contact"
+                                to="/login"
                                 className={({ isActive, isPending }) =>
                                     isPending ? "pending" : isActive ? "text-[#FF3811] hover:scale-90" : "hover:scale-90"
                                 }
@@ -94,7 +94,7 @@ const Navbar = () => {
                     <PiShoppingCart className="text-3xl" />
                     <div className="flex justify-center items-center">
                         <NavLink
-                            to="/contact"
+                            to="/login"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-[#FF3811] hover:scale-90" : "hover:scale-90"
                             }
